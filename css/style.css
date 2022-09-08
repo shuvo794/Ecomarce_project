@@ -52,8 +52,8 @@ body {
 .single-product {
     padding: 10px;
     transition: 0.6s;
-    background-color: rgb(108, 185, 221);
-    border: 2px solid cyan;
+    /* background-color: rgb(108, 185, 221); */
+    border: 2px solid gray;
     border-radius: 10px;
     height: 520px;
     margin: 10px;
